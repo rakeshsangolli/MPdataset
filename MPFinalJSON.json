@@ -1,0 +1,904 @@
+{
+  "feeds": [
+    {
+      "Index": 1,
+      "Field1": 5.21,
+      "Field2": 530.29,
+      "Field3": 5.99,
+      "Field4": 1055.28,
+      "Field5": 5.39,
+      "Field6": 786.71
+    },
+    {
+      "Index": 2,
+      "Field1": 5.49,
+      "Field2": 577.1,
+      "Field3": 5.92,
+      "Field4": 1103.92,
+      "Field5": 5.14,
+      "Field6": 1302.46
+    },
+    {
+      "Index": 3,
+      "Field1": 5.02,
+      "Field2": 933.49,
+      "Field3": 5.6,
+      "Field4": 1316.88,
+      "Field5": 5.95,
+      "Field6": 860.72
+    },
+    {
+      "Index": 4,
+      "Field1": 5.25,
+      "Field2": 1091.1,
+      "Field3": 5.97,
+      "Field4": 628.42,
+      "Field5": 5.77,
+      "Field6": 1194.39
+    },
+    {
+      "Index": 5,
+      "Field1": 5.07,
+      "Field2": 1101.1,
+      "Field3": 5.82,
+      "Field4": 1313.84,
+      "Field5": 5.64,
+      "Field6": 1091.84
+    },
+    {
+      "Index": 6,
+      "Field1": 5.2,
+      "Field2": 663,
+      "Field3": 5.85,
+      "Field4": 699.72,
+      "Field5": 5.59,
+      "Field6": 548.58
+    },
+    {
+      "Index": 7,
+      "Field1": 5.12,
+      "Field2": 1227.74,
+      "Field3": 5.2,
+      "Field4": 666.18,
+      "Field5": 5.07,
+      "Field6": 1301.02
+    },
+    {
+      "Index": 8,
+      "Field1": 5.66,
+      "Field2": 756.8,
+      "Field3": 5.64,
+      "Field4": 588.52,
+      "Field5": 5.2,
+      "Field6": 797.86
+    },
+    {
+      "Index": 9,
+      "Field1": 5.7,
+      "Field2": 891.14,
+      "Field3": 5.82,
+      "Field4": 997.79,
+      "Field5": 5.29,
+      "Field6": 986.31
+    },
+    {
+      "Index": 10,
+      "Field1": 5.16,
+      "Field2": 970.56,
+      "Field3": 5.46,
+      "Field4": 1281.65,
+      "Field5": 5.04,
+      "Field6": 635.83
+    },
+    {
+      "Index": 11,
+      "Field1": 5.83,
+      "Field2": 725.98,
+      "Field3": 5.51,
+      "Field4": 1217.15,
+      "Field5": 5.76,
+      "Field6": 734.55
+    },
+    {
+      "Index": 12,
+      "Field1": 5.13,
+      "Field2": 970.13,
+      "Field3": 5.28,
+      "Field4": 1248.43,
+      "Field5": 5.83,
+      "Field6": 991.45
+    },
+    {
+      "Index": 13,
+      "Field1": 5.61,
+      "Field2": 843.03,
+      "Field3": 5.31,
+      "Field4": 970.72,
+      "Field5": 5.5,
+      "Field6": 877.56
+    },
+    {
+      "Index": 14,
+      "Field1": 5.34,
+      "Field2": 992.12,
+      "Field3": 5.33,
+      "Field4": 911.69,
+      "Field5": 5.76,
+      "Field6": 1105.7
+    },
+    {
+      "Index": 15,
+      "Field1": 5.76,
+      "Field2": 549.87,
+      "Field3": 5.69,
+      "Field4": 1118.91,
+      "Field5": 5.5,
+      "Field6": 693.67
+    },
+    {
+      "Index": 16,
+      "Field1": 5.54,
+      "Field2": 643.89,
+      "Field3": 5.98,
+      "Field4": 1181.73,
+      "Field5": 5.24,
+      "Field6": 700.14
+    },
+    {
+      "Index": 17,
+      "Field1": 5.98,
+      "Field2": 661.15,
+      "Field3": 6,
+      "Field4": 1286.58,
+      "Field5": 5.15,
+      "Field6": 949.01
+    },
+    {
+      "Index": 18,
+      "Field1": 5.36,
+      "Field2": 624.48,
+      "Field3": 5.99,
+      "Field4": 1129.01,
+      "Field5": 5.14,
+      "Field6": 894.66
+    },
+    {
+      "Index": 19,
+      "Field1": 5.49,
+      "Field2": 880.5,
+      "Field3": 5.57,
+      "Field4": 875.66,
+      "Field5": 5.26,
+      "Field6": 968.96
+    },
+    {
+      "Index": 20,
+      "Field1": 5.51,
+      "Field2": 1353.88,
+      "Field3": 5.39,
+      "Field4": 528.28,
+      "Field5": 5.34,
+      "Field6": 1342.29
+    },
+    {
+      "Index": 21,
+      "Field1": 5.37,
+      "Field2": 548.11,
+      "Field3": 5.51,
+      "Field4": 715.11,
+      "Field5": 5.57,
+      "Field6": 559.07
+    },
+    {
+      "Index": 22,
+      "Field1": 5.19,
+      "Field2": 1189.72,
+      "Field3": 5.96,
+      "Field4": 1122.92,
+      "Field5": 5.7,
+      "Field6": 641.99
+    },
+    {
+      "Index": 23,
+      "Field1": 5.79,
+      "Field2": 517.97,
+      "Field3": 5.58,
+      "Field4": 985.81,
+      "Field5": 5.59,
+      "Field6": 793.43
+    },
+    {
+      "Index": 24,
+      "Field1": 5.73,
+      "Field2": 578.04,
+      "Field3": 5.24,
+      "Field4": 1366.75,
+      "Field5": 5.85,
+      "Field6": 712.95
+    },
+    {
+      "Index": 25,
+      "Field1": 5.39,
+      "Field2": 771.47,
+      "Field3": 5.99,
+      "Field4": 829.07,
+      "Field5": 5.81,
+      "Field6": 607.97
+    },
+    {
+      "Index": 26,
+      "Field1": 5.24,
+      "Field2": 848.37,
+      "Field3": 5.03,
+      "Field4": 628.63,
+      "Field5": 5.5,
+      "Field6": 858.89
+    },
+    {
+      "Index": 27,
+      "Field1": 5.82,
+      "Field2": 849.15,
+      "Field3": 5.89,
+      "Field4": 1318.6,
+      "Field5": 5.03,
+      "Field6": 1024.18
+    },
+    {
+      "Index": 28,
+      "Field1": 5.57,
+      "Field2": 825.48,
+      "Field3": 5.67,
+      "Field4": 1152.48,
+      "Field5": 5.17,
+      "Field6": 1273.04
+    },
+    {
+      "Index": 29,
+      "Field1": 5.04,
+      "Field2": 770.45,
+      "Field3": 5.25,
+      "Field4": 694.75,
+      "Field5": 5.86,
+      "Field6": 587.67
+    },
+    {
+      "Index": 30,
+      "Field1": 5.29,
+      "Field2": 615.15,
+      "Field3": 5.23,
+      "Field4": 1329.09,
+      "Field5": 5.21,
+      "Field6": 1254.88
+    },
+    {
+      "Index": 31,
+      "Field1": 5.96,
+      "Field2": 1384.73,
+      "Field3": 5.55,
+      "Field4": 775.18,
+      "Field5": 5.2,
+      "Field6": 573.38
+    },
+    {
+      "Index": 32,
+      "Field1": 5.19,
+      "Field2": 643.01,
+      "Field3": 5.26,
+      "Field4": 1378.67,
+      "Field5": 5.21,
+      "Field6": 808.12
+    },
+    {
+      "Index": 33,
+      "Field1": 5.76,
+      "Field2": 1366,
+      "Field3": 5.61,
+      "Field4": 1359.95,
+      "Field5": 5.96,
+      "Field6": 942.66
+    },
+    {
+      "Index": 34,
+      "Field1": 5.43,
+      "Field2": 546.49,
+      "Field3": 5.28,
+      "Field4": 693.16,
+      "Field5": 5.86,
+      "Field6": 1224.95
+    },
+    {
+      "Index": 35,
+      "Field1": 5.24,
+      "Field2": 921.54,
+      "Field3": 5.21,
+      "Field4": 1222.65,
+      "Field5": 5.33,
+      "Field6": 1083.31
+    },
+    {
+      "Index": 36,
+      "Field1": 5.68,
+      "Field2": 1259.7,
+      "Field3": 5.86,
+      "Field4": 804.62,
+      "Field5": 5.2,
+      "Field6": 575.55
+    },
+    {
+      "Index": 37,
+      "Field1": 5.26,
+      "Field2": 860.75,
+      "Field3": 5.41,
+      "Field4": 1285.97,
+      "Field5": 5.04,
+      "Field6": 1122.12
+    },
+    {
+      "Index": 38,
+      "Field1": 5.92,
+      "Field2": 989.61,
+      "Field3": 6,
+      "Field4": 1282.42,
+      "Field5": 5.62,
+      "Field6": 833.59
+    },
+    {
+      "Index": 39,
+      "Field1": 5.89,
+      "Field2": 863.51,
+      "Field3": 5.18,
+      "Field4": 705.7,
+      "Field5": 5.74,
+      "Field6": 1304.5
+    },
+    {
+      "Index": 40,
+      "Field1": 5.61,
+      "Field2": 1253.79,
+      "Field3": 5.91,
+      "Field4": 844.69,
+      "Field5": 5.71,
+      "Field6": 1017.35
+    },
+    {
+      "Index": 41,
+      "Field1": 5.99,
+      "Field2": 622.25,
+      "Field3": 5.37,
+      "Field4": 582.79,
+      "Field5": 5.62,
+      "Field6": 836.14
+    },
+    {
+      "Index": 42,
+      "Field1": 5.68,
+      "Field2": 892.24,
+      "Field3": 5.82,
+      "Field4": 931.21,
+      "Field5": 5.13,
+      "Field6": 963.94
+    },
+    {
+      "Index": 43,
+      "Field1": 5.21,
+      "Field2": 1158.67,
+      "Field3": 5.85,
+      "Field4": 1092.18,
+      "Field5": 5.62,
+      "Field6": 709.57
+    },
+    {
+      "Index": 44,
+      "Field1": 5.99,
+      "Field2": 1005.25,
+      "Field3": 5.34,
+      "Field4": 1093.83,
+      "Field5": 5.55,
+      "Field6": 1161.53
+    },
+    {
+      "Index": 45,
+      "Field1": 5.69,
+      "Field2": 607.4,
+      "Field3": 5.24,
+      "Field4": 978.98,
+      "Field5": 5.02,
+      "Field6": 681.49
+    },
+    {
+      "Index": 46,
+      "Field1": 5.99,
+      "Field2": 1031.1,
+      "Field3": 5.11,
+      "Field4": 627.29,
+      "Field5": 5.03,
+      "Field6": 633.27
+    },
+    {
+      "Index": 47,
+      "Field1": 5.25,
+      "Field2": 946.76,
+      "Field3": 5.33,
+      "Field4": 1033.25,
+      "Field5": 5.04,
+      "Field6": 501.93
+    },
+    {
+      "Index": 48,
+      "Field1": 5.2,
+      "Field2": 720.15,
+      "Field3": 5.91,
+      "Field4": 568.25,
+      "Field5": 5.58,
+      "Field6": 1242.77
+    },
+    {
+      "Index": 49,
+      "Field1": 5.74,
+      "Field2": 1370.25,
+      "Field3": 5.13,
+      "Field4": 749.54,
+      "Field5": 5.46,
+      "Field6": 1194.75
+    },
+    {
+      "Index": 50,
+      "Field1": 5.51,
+      "Field2": 1252.48,
+      "Field3": 5.72,
+      "Field4": 1282.67,
+      "Field5": 5.99,
+      "Field6": 1268.05
+    },
+    {
+      "Index": 51,
+      "Field1": 5.94,
+      "Field2": 812.8,
+      "Field3": 5.13,
+      "Field4": 1126.39,
+      "Field5": 5.28,
+      "Field6": 820.05
+    },
+    {
+      "Index": 52,
+      "Field1": 5.39,
+      "Field2": 1008.9,
+      "Field3": 5.03,
+      "Field4": 882.04,
+      "Field5": 5.78,
+      "Field6": 841.32
+    },
+    {
+      "Index": 53,
+      "Field1": 5.37,
+      "Field2": 1161.23,
+      "Field3": 5.66,
+      "Field4": 524.67,
+      "Field5": 5.83,
+      "Field6": 503.05
+    },
+    {
+      "Index": 54,
+      "Field1": 5.18,
+      "Field2": 1254.03,
+      "Field3": 5.89,
+      "Field4": 857.07,
+      "Field5": 5.08,
+      "Field6": 1254.81
+    },
+    {
+      "Index": 55,
+      "Field1": 5.32,
+      "Field2": 706.68,
+      "Field3": 5.81,
+      "Field4": 905.55,
+      "Field5": 5.97,
+      "Field6": 509.53
+    },
+    {
+      "Index": 56,
+      "Field1": 5.48,
+      "Field2": 603.25,
+      "Field3": 5.17,
+      "Field4": 683.5,
+      "Field5": 5.57,
+      "Field6": 860.28
+    },
+    {
+      "Index": 57,
+      "Field1": 5.46,
+      "Field2": 829.01,
+      "Field3": 5.49,
+      "Field4": 1149.36,
+      "Field5": 5.05,
+      "Field6": 755.45
+    },
+    {
+      "Index": 58,
+      "Field1": 5.73,
+      "Field2": 1158.88,
+      "Field3": 5.42,
+      "Field4": 848.41,
+      "Field5": 6,
+      "Field6": 795.06
+    },
+    {
+      "Index": 59,
+      "Field1": 5.91,
+      "Field2": 939.37,
+      "Field3": 5.23,
+      "Field4": 1231.44,
+      "Field5": 5.89,
+      "Field6": 1166.19
+    },
+    {
+      "Index": 60,
+      "Field1": 5.6,
+      "Field2": 1275.13,
+      "Field3": 5.18,
+      "Field4": 1156.81,
+      "Field5": 5.67,
+      "Field6": 861.82
+    },
+    {
+      "Index": 61,
+      "Field1": 5.56,
+      "Field2": 631.12,
+      "Field3": 5.27,
+      "Field4": 562.49,
+      "Field5": 5.95,
+      "Field6": 810.19
+    },
+    {
+      "Index": 62,
+      "Field1": 5.15,
+      "Field2": 1249.16,
+      "Field3": 5.73,
+      "Field4": 1127.96,
+      "Field5": 5.95,
+      "Field6": 1064.64
+    },
+    {
+      "Index": 63,
+      "Field1": 5.11,
+      "Field2": 1109.36,
+      "Field3": 5.77,
+      "Field4": 852.1,
+      "Field5": 5.62,
+      "Field6": 1020.2
+    },
+    {
+      "Index": 64,
+      "Field1": 5.99,
+      "Field2": 1255.18,
+      "Field3": 5.85,
+      "Field4": 787.86,
+      "Field5": 5.32,
+      "Field6": 634.69
+    },
+    {
+      "Index": 65,
+      "Field1": 5.2,
+      "Field2": 738.03,
+      "Field3": 5.89,
+      "Field4": 562.44,
+      "Field5": 5.06,
+      "Field6": 935.64
+    },
+    {
+      "Index": 66,
+      "Field1": 5.92,
+      "Field2": 723.78,
+      "Field3": 5.24,
+      "Field4": 589.45,
+      "Field5": 5.25,
+      "Field6": 543.97
+    },
+    {
+      "Index": 67,
+      "Field1": 5.44,
+      "Field2": 780.49,
+      "Field3": 5.92,
+      "Field4": 952.78,
+      "Field5": 5.93,
+      "Field6": 1196.56
+    },
+    {
+      "Index": 68,
+      "Field1": 5.58,
+      "Field2": 900.5,
+      "Field3": 5.46,
+      "Field4": 534.88,
+      "Field5": 5.45,
+      "Field6": 1195.67
+    },
+    {
+      "Index": 69,
+      "Field1": 5.68,
+      "Field2": 1296.12,
+      "Field3": 5.02,
+      "Field4": 1199.89,
+      "Field5": 5.33,
+      "Field6": 884.56
+    },
+    {
+      "Index": 70,
+      "Field1": 5.09,
+      "Field2": 650.88,
+      "Field3": 5.45,
+      "Field4": 834.73,
+      "Field5": 5.56,
+      "Field6": 1164.41
+    },
+    {
+      "Index": 71,
+      "Field1": 5.79,
+      "Field2": 708.2,
+      "Field3": 5.2,
+      "Field4": 1078.38,
+      "Field5": 5.72,
+      "Field6": 955.24
+    },
+    {
+      "Index": 72,
+      "Field1": 5.24,
+      "Field2": 701.49,
+      "Field3": 5.96,
+      "Field4": 1172.28,
+      "Field5": 5.51,
+      "Field6": 1161.8
+    },
+    {
+      "Index": 73,
+      "Field1": 5.87,
+      "Field2": 606.31,
+      "Field3": 5.33,
+      "Field4": 665.96,
+      "Field5": 5.98,
+      "Field6": 590.52
+    },
+    {
+      "Index": 74,
+      "Field1": 5.18,
+      "Field2": 586.79,
+      "Field3": 5.73,
+      "Field4": 550.49,
+      "Field5": 5.39,
+      "Field6": 1281.16
+    },
+    {
+      "Index": 75,
+      "Field1": 5.24,
+      "Field2": 1250.15,
+      "Field3": 5.76,
+      "Field4": 662.36,
+      "Field5": 5.75,
+      "Field6": 946.1
+    },
+    {
+      "Index": 76,
+      "Field1": 5.62,
+      "Field2": 1309.9,
+      "Field3": 5.2,
+      "Field4": 531.34,
+      "Field5": 5.74,
+      "Field6": 859.66
+    },
+    {
+      "Index": 77,
+      "Field1": 5.06,
+      "Field2": 1345.14,
+      "Field3": 5.5,
+      "Field4": 1272.66,
+      "Field5": 5.64,
+      "Field6": 673.45
+    },
+    {
+      "Index": 78,
+      "Field1": 5.02,
+      "Field2": 688.75,
+      "Field3": 5.1,
+      "Field4": 1383.34,
+      "Field5": 5.08,
+      "Field6": 1020.65
+    },
+    {
+      "Index": 79,
+      "Field1": 5.09,
+      "Field2": 1123.93,
+      "Field3": 5.25,
+      "Field4": 1214.95,
+      "Field5": 5.52,
+      "Field6": 883.82
+    },
+    {
+      "Index": 80,
+      "Field1": 5.37,
+      "Field2": 1252.78,
+      "Field3": 5.24,
+      "Field4": 632.38,
+      "Field5": 5.04,
+      "Field6": 952.44
+    },
+    {
+      "Index": 81,
+      "Field1": 5.78,
+      "Field2": 539.42,
+      "Field3": 5.93,
+      "Field4": 1174.91,
+      "Field5": 5.87,
+      "Field6": 702.99
+    },
+    {
+      "Index": 82,
+      "Field1": 5.65,
+      "Field2": 947.02,
+      "Field3": 5.76,
+      "Field4": 952.93,
+      "Field5": 5.49,
+      "Field6": 1148.8
+    },
+    {
+      "Index": 83,
+      "Field1": 5.68,
+      "Field2": 884.32,
+      "Field3": 5.53,
+      "Field4": 885.96,
+      "Field5": 5.15,
+      "Field6": 865.07
+    },
+    {
+      "Index": 84,
+      "Field1": 5.76,
+      "Field2": 1210.23,
+      "Field3": 5.77,
+      "Field4": 569.5,
+      "Field5": 5.29,
+      "Field6": 740.57
+    },
+    {
+      "Index": 85,
+      "Field1": 5.63,
+      "Field2": 1019.04,
+      "Field3": 5.51,
+      "Field4": 1366.96,
+      "Field5": 5.53,
+      "Field6": 949.05
+    },
+    {
+      "Index": 86,
+      "Field1": 5.54,
+      "Field2": 572.16,
+      "Field3": 5.47,
+      "Field4": 514.53,
+      "Field5": 5.27,
+      "Field6": 854.44
+    },
+    {
+      "Index": 87,
+      "Field1": 5.04,
+      "Field2": 733.75,
+      "Field3": 5.35,
+      "Field4": 930.18,
+      "Field5": 5.35,
+      "Field6": 864.6
+    },
+    {
+      "Index": 88,
+      "Field1": 5.27,
+      "Field2": 866.85,
+      "Field3": 5.53,
+      "Field4": 851.11,
+      "Field5": 5.71,
+      "Field6": 833.38
+    },
+    {
+      "Index": 89,
+      "Field1": 5.7,
+      "Field2": 671.11,
+      "Field3": 5.1,
+      "Field4": 1053.31,
+      "Field5": 5.12,
+      "Field6": 1128.87
+    },
+    {
+      "Index": 90,
+      "Field1": 5.69,
+      "Field2": 873.99,
+      "Field3": 5.68,
+      "Field4": 1372.18,
+      "Field5": 5.33,
+      "Field6": 612.64
+    },
+    {
+      "Index": 91,
+      "Field1": 5.26,
+      "Field2": 1010.76,
+      "Field3": 5.09,
+      "Field4": 1105.54,
+      "Field5": 5.88,
+      "Field6": 733.12
+    },
+    {
+      "Index": 92,
+      "Field1": 5.39,
+      "Field2": 1353.18,
+      "Field3": 5.25,
+      "Field4": 976.42,
+      "Field5": 5.54,
+      "Field6": 1217.76
+    },
+    {
+      "Index": 93,
+      "Field1": 5.66,
+      "Field2": 803.18,
+      "Field3": 5.43,
+      "Field4": 707.6,
+      "Field5": 5.95,
+      "Field6": 534.64
+    },
+    {
+      "Index": 94,
+      "Field1": 5.96,
+      "Field2": 922.44,
+      "Field3": 5.4,
+      "Field4": 780.05,
+      "Field5": 5.38,
+      "Field6": 920.93
+    },
+    {
+      "Index": 95,
+      "Field1": 5.01,
+      "Field2": 1264.17,
+      "Field3": 5.36,
+      "Field4": 1307.02,
+      "Field5": 5.59,
+      "Field6": 874.35
+    },
+    {
+      "Index": 96,
+      "Field1": 5.19,
+      "Field2": 556.81,
+      "Field3": 5.97,
+      "Field4": 998.34,
+      "Field5": 5.16,
+      "Field6": 870.16
+    },
+    {
+      "Index": 97,
+      "Field1": 5.79,
+      "Field2": 959.97,
+      "Field3": 5.86,
+      "Field4": 700.51,
+      "Field5": 5.4,
+      "Field6": 618.19
+    },
+    {
+      "Index": 98,
+      "Field1": 5.79,
+      "Field2": 773.77,
+      "Field3": 5.78,
+      "Field4": 1114.55,
+      "Field5": 5.76,
+      "Field6": 1362.02
+    },
+    {
+      "Index": 99,
+      "Field1": 5.5,
+      "Field2": 956.25,
+      "Field3": 5.98,
+      "Field4": 1151.63,
+      "Field5": 5,
+      "Field6": 1005.67
+    },
+    {
+      "Index": 100,
+      "Field1": 5.17,
+      "Field2": 1321.86,
+      "Field3": 5.05,
+      "Field4": 1059.08,
+      "Field5": 5.46,
+      "Field6": 502.06
+    }
+  ]
+}
